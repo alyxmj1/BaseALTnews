@@ -8,10 +8,10 @@ $.ajaxSetup({
 
 //EDIT THESE LINES
 //Title of the blog
-var TITLE = "BaseALT News";
+var TITLE = "Новости игроиндустрии";
 //RSS url
 //
-var RSS = "https://www.basealt.ru/feed.rss";
+var RSS = "https://news.yandex.ru/games.rss";
 //http://www.mforum.ru/rss/news.xml";
 //Stores entries
 var entries = [];
